@@ -1,5 +1,5 @@
 registro del sistema
 Estado: 
-Probado
+Aprobado
 Observaciones:
-Pruwbas realizadas correctamente
+Versión aprobada para entrega
