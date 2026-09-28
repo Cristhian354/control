@@ -1,3 +1,5 @@
 registro del sistema
-Estado: EN REVSION
-Observaciones: Pendiente de pruebas
+Estado: 
+Probado
+Observaciones:
+Pruwbas realizadas correctamente
